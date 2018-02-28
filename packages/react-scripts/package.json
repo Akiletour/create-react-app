@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts",
+  "name": "aki-react-scripts",
   "version": "1.1.1",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "description": "Akiletour Configuration and scripts for Create React App.",
+  "repository": "Akiletour/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
@@ -61,7 +61,9 @@
   },
   "devDependencies": {
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
   },
   "optionalDependencies": {
     "fsevents": "^1.1.3"
